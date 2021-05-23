@@ -11,4 +11,4 @@ An WordPress plugin to send Notification Via Webhook to Discord.
 
 ## Changelog
 
-For the Plugin's changelog, Please see the [Release Page]().
+For the Plugin's changelog, Please see the [Release Page](https://github.com/superyassh/notification_to_discord/releases).
