@@ -1,5 +1,10 @@
 ## Changelog
 
+##### 2.0.0
+-Added Embed Option
+-Improve the Post Design
+
+
 ##### 1.0.0
 - Added Option to mention Specific Role via [Discord Series Roles Plugin](https://github.com/superyassh/Discord-Series-Roles)
 
