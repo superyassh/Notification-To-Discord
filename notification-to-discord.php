@@ -60,9 +60,14 @@ function notification_to_discord($new_status, $old_status, $post) {
 
             // Footer
             "footer" => [
-                "text" => "www.paypal.me/xCaliBRScans",
+                "text" => "paypal.me/xCaliBRScans",
                 "icon_url" => "https://i.imgur.com/wKnrGtv.png"
             ],
+			
+			// Image
+			"image" => [
+        		"url" => "https://i.imgur.com/hcSgT8M.gif"
+      		],
 
             // Thumbnail
             "thumbnail" => [
