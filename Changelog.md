@@ -1,8 +1,13 @@
 ## Changelog
 
+##### 3.0.0
+- Improved User Experience
+- Improved Embed Display
+
+
 ##### 2.0.0
--Added Embed Option
--Improve the Post Design
+- Added Embed Option
+- Improve the Post Design
 
 
 ##### 1.0.0
